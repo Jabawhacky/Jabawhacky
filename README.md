@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jabawhacky
 - 👀 I’m interested in C#, HTML5, CSS, JavaScript
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - ales.princic@gmail.com
 
